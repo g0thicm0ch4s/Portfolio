@@ -62,3 +62,4 @@ Feel free to reach out for collaborations or opportunities!
 ---
 
 Built with ❤️ using React, Three.js, and modern web technologies.
+# Updated for Vercel deployment
